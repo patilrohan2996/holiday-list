@@ -270,11 +270,6 @@
     "Holiday": "Day after Thanksgiving"
   },
   {
-    "Date": "03-12-2025",
-    "Site": "USA",
-    "Holiday": "Business Specific Holiday"
-  },
-  {
     "Date": "24-12-2025",
     "Site": "Australia",
     "Holiday": "Christmas Eve"
@@ -325,18 +320,8 @@
     "Holiday": "Boxing Day"
   },
   {
-    "Date": "27-12-2025",
-    "Site": "USA",
-    "Holiday": "Business Specific Holiday"
-  },
-  {
     "Date": "31-12-2025",
     "Site": "Sweden",
     "Holiday": "New Year's Eve"
   },
-  {
-    "Date": "31-12-2025",
-    "Site": "USA",
-    "Holiday": "Business Specific Holiday"
-  }
 ]
