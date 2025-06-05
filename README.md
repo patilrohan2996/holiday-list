@@ -13,9 +13,9 @@ A sleek, interactive Streamlit web app that visualizes public holidays across mu
 
 ## 📁 Folder Structure
 
-├── app.py # Main Streamlit application
-├── list.json # JSON file containing holiday data
-└── README.md # Project documentation
+|-- app.py # Main Streamlit application
+   |-- list.json # JSON file containing holiday data
+      |-- README.md # Project documentation
 
 ## 🖥️ Screenshot
 ![image](https://github.com/user-attachments/assets/231f38a2-b856-44f4-b2a3-0ba782d7b8a0)
