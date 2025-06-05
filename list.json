@@ -1,0 +1,342 @@
+[
+  {
+    "Date": "01-01-2025",
+    "Site": "Sweden",
+    "Holiday": "New Years Day"
+  },
+  {
+    "Date": "01-01-2025",
+    "Site": "France",
+    "Holiday": "New Years Day"
+  },
+  {
+    "Date": "01-01-2025",
+    "Site": "USA",
+    "Holiday": "New Years Day"
+  },
+  {
+    "Date": "01-01-2025",
+    "Site": "Australia",
+    "Holiday": "New Years Day"
+  },
+  {
+    "Date": "01-01-2025",
+    "Site": "Brazil",
+    "Holiday": "New Years Day"
+  },
+  {
+    "Date": "06-01-2025",
+    "Site": "Sweden",
+    "Holiday": "Epiphany"
+  },
+  {
+    "Date": "15-01-2025",
+    "Site": "India",
+    "Holiday": "Makara Sankranthi"
+  },
+  {
+    "Date": "26-01-2025",
+    "Site": "India",
+    "Holiday": "Republic Day"
+  },
+  {
+    "Date": "26-01-2025",
+    "Site": "Australia",
+    "Holiday": "Australia Day"
+  },
+  {
+    "Date": "12-02-2025",
+    "Site": "Brazil",
+    "Holiday": "Carnival"
+  },
+  {
+    "Date": "13-02-2025",
+    "Site": "Brazil",
+    "Holiday": "Carnival"
+  },
+  {
+    "Date": "14-02-2025",
+    "Site": "Brazil",
+    "Holiday": "Carnival"
+  },
+  {
+    "Date": "29-03-2025",
+    "Site": "Sweden",
+    "Holiday": "Good Friday"
+  },
+  {
+    "Date": "29-03-2025",
+    "Site": "Australia",
+    "Holiday": "Good Friday"
+  },
+  {
+    "Date": "29-03-2025",
+    "Site": "Brazil",
+    "Holiday": "Good Friday"
+  },
+  {
+    "Date": "01-04-2025",
+    "Site": "Sweden",
+    "Holiday": "Easter Monday"
+  },
+  {
+    "Date": "01-04-2025",
+    "Site": "France",
+    "Holiday": "Easter Monday"
+  },
+  {
+    "Date": "01-04-2025",
+    "Site": "Australia",
+    "Holiday": "Easter Monday"
+  },
+  {
+    "Date": "01-04-2025",
+    "Site": "Brazil",
+    "Holiday": "Easter Monday"
+  },
+  {
+    "Date": "09-04-2025",
+    "Site": "India",
+    "Holiday": "Ugadi"
+  },
+  {
+    "Date": "21-04-2025",
+    "Site": "Brazil",
+    "Holiday": "Tiradentes Day"
+  },
+  {
+    "Date": "25-04-2025",
+    "Site": "Australia",
+    "Holiday": "ANZAC Day"
+  },
+  {
+    "Date": "01-05-2025",
+    "Site": "India",
+    "Holiday": "May Day"
+  },
+  {
+    "Date": "01-05-2025",
+    "Site": "Sweden",
+    "Holiday": "May Day"
+  },
+  {
+    "Date": "01-05-2025",
+    "Site": "France",
+    "Holiday": "Labour Day"
+  },
+  {
+    "Date": "01-05-2025",
+    "Site": "Brazil",
+    "Holiday": "Labour Day"
+  },
+  {
+    "Date": "02-05-2025",
+    "Site": "France",
+    "Holiday": "Whit Monday"
+  },
+  {
+    "Date": "03-05-2025",
+    "Site": "Brazil",
+    "Holiday": "Corpus Christi"
+  },
+  {
+    "Date": "06-05-2025",
+    "Site": "Australia",
+    "Holiday": "Labour Day"
+  },
+  {
+    "Date": "08-05-2025",
+    "Site": "France",
+    "Holiday": "Victory Day"
+  },
+  {
+    "Date": "27-05-2025",
+    "Site": "USA",
+    "Holiday": "Memorial Day"
+  },
+  {
+    "Date": "29-05-2025",
+    "Site": "Sweden",
+    "Holiday": "Ascension Day"
+  },
+  {
+    "Date": "29-05-2025",
+    "Site": "France",
+    "Holiday": "Ascension Day"
+  },
+  {
+    "Date": "06-06-2025",
+    "Site": "Sweden",
+    "Holiday": "Swedish National Day"
+  },
+  {
+    "Date": "17-06-2025",
+    "Site": "India",
+    "Holiday": "Bakrid"
+  },
+  {
+    "Date": "21-06-2025",
+    "Site": "Sweden",
+    "Holiday": "Midsummer Eve"
+  },
+  {
+    "Date": "22-06-2025",
+    "Site": "Sweden",
+    "Holiday": "Midsummer Day"
+  },
+  {
+    "Date": "04-07-2025",
+    "Site": "USA",
+    "Holiday": "Independence Day"
+  },
+  {
+    "Date": "14-07-2025",
+    "Site": "France",
+    "Holiday": "National Day"
+  },
+  {
+    "Date": "14-08-2025",
+    "Site": "Australia",
+    "Holiday": "Royal Queensland Show"
+  },
+  {
+    "Date": "15-08-2025",
+    "Site": "India",
+    "Holiday": "Independence Day"
+  },
+  {
+    "Date": "15-08-2025",
+    "Site": "France",
+    "Holiday": "Assumption Day"
+  },
+  {
+    "Date": "02-09-2025",
+    "Site": "USA",
+    "Holiday": "Labor Day"
+  },
+  {
+    "Date": "02-10-2025",
+    "Site": "India",
+    "Holiday": "Gandhi Jayanti"
+  },
+  {
+    "Date": "07-10-2025",
+    "Site": "Australia",
+    "Holiday": "Kings Birthday"
+  },
+  {
+    "Date": "12-10-2025",
+    "Site": "Brazil",
+    "Holiday": "Lady of Aparecida"
+  },
+  {
+    "Date": "14-10-2025",
+    "Site": "Brazil",
+    "Holiday": "Compensatory holiday"
+  },
+  {
+    "Date": "21-10-2025",
+    "Site": "India",
+    "Holiday": "Ayudha Pooja"
+  },
+  {
+    "Date": "01-11-2025",
+    "Site": "India",
+    "Holiday": "Kannada Rajyothsava"
+  },
+  {
+    "Date": "01-11-2025",
+    "Site": "France",
+    "Holiday": "All Saints Day"
+  },
+  {
+    "Date": "11-11-2025",
+    "Site": "France",
+    "Holiday": "Armistice"
+  },
+  {
+    "Date": "15-11-2025",
+    "Site": "Brazil",
+    "Holiday": "Republic Day"
+  },
+  {
+    "Date": "28-11-2025",
+    "Site": "USA",
+    "Holiday": "Thanksgiving Day"
+  },
+  {
+    "Date": "29-11-2025",
+    "Site": "USA",
+    "Holiday": "Day after Thanksgiving"
+  },
+  {
+    "Date": "03-12-2025",
+    "Site": "USA",
+    "Holiday": "Business Specific Holiday"
+  },
+  {
+    "Date": "24-12-2025",
+    "Site": "Australia",
+    "Holiday": "Christmas Eve"
+  },
+  {
+    "Date": "25-12-2025",
+    "Site": "India",
+    "Holiday": "Christmas"
+  },
+  {
+    "Date": "25-12-2025",
+    "Site": "Sweden",
+    "Holiday": "Christmas"
+  },
+  {
+    "Date": "25-12-2025",
+    "Site": "France",
+    "Holiday": "Christmas"
+  },
+  {
+    "Date": "25-12-2025",
+    "Site": "USA",
+    "Holiday": "Christmas"
+  },
+  {
+    "Date": "25-12-2025",
+    "Site": "Australia",
+    "Holiday": "Christmas"
+  },
+  {
+    "Date": "25-12-2025",
+    "Site": "Brazil",
+    "Holiday": "Christmas"
+  },
+  {
+    "Date": "26-12-2025",
+    "Site": "Sweden",
+    "Holiday": "St. Stephen's Day"
+  },
+  {
+    "Date": "26-12-2025",
+    "Site": "USA",
+    "Holiday": "Boxing Day"
+  },
+  {
+    "Date": "26-12-2025",
+    "Site": "Australia",
+    "Holiday": "Boxing Day"
+  },
+  {
+    "Date": "27-12-2025",
+    "Site": "USA",
+    "Holiday": "Business Specific Holiday"
+  },
+  {
+    "Date": "31-12-2025",
+    "Site": "Sweden",
+    "Holiday": "New Year's Eve"
+  },
+  {
+    "Date": "31-12-2025",
+    "Site": "USA",
+    "Holiday": "Business Specific Holiday"
+  }
+]
