@@ -36,7 +36,7 @@ A sleek, interactive Streamlit web app that visualizes public holidays across mu
    cd holiday-list
 
 2. **Install Dependencies**
-   pip install -r requirements.txt
+   ```pip install -r requirements.txt
 
 3. **Run Python on Streamlit**
-   streamlit run app.py
+   ```streamlit run app.py
