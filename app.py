@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 from streamlit_calendar import calendar
 from datetime import datetime
+import json
 
 # Set page config
 st.set_page_config(page_title="Company Holiday Calendar", layout="wide", page_icon="🗓️")
